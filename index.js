@@ -1,10 +1,3 @@
-
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
-CURRENTLY RUNNING ON BETA VERSION!!
-*
    * @project_name : whatsapp pair
    * @author : Teranchamp
    * @description : Get baileys qr, where session id Converted into 'base64'. You can change it According to your needs.
