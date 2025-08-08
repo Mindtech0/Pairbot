@@ -1,4 +1,4 @@
-   * @project_name : whatsapp pair
+   * @project_name : Pairbot
    * @author : Teranchamp
    * @description : Get baileys qr, where session id Converted into 'base64'. You can change it According to your needs.
    * @version 1.0.0
